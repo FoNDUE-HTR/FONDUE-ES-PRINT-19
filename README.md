@@ -1,32 +1,26 @@
-# FONDUE-EN-PRINT-20
+# FONDUE-ES-PRINT-19
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
-This repo contains the transcription of 20th c. English prints.
+This repo contains the transcription of 19th c. Spanish prints.
 
 ## Content
 
-Archives:
-
-| Town      | Library               | Shelfmark / Title                                              | Pages    | Date | Transcription |
-|-----------|-----------------------|----------------------------------------------------------------|----------|------|---------------|
-| New York  | United Nations Libary | [A_RES_44_192-EN](https://digitallibrary.un.org/record/241315) | 2 pages  | 1990 | S. Gabay      |
-| New York  | United Nations Libary | [A_RES_45_212-EN](https://digitallibrary.un.org/record/196769) | 3 pages  | 1990 | S. Gabay      |
-
 Books:
 
-| Author /editor    | Title                                                          | Pages    | Date | Transcription          |
-|-------------------|----------------------------------------------------------------|----------|------|------------------------|
-| Bram Stoker       | _Dracula_                                                      | 5 pages  | XXXX | M. Perregaux           |
-| Ann Radcliffe     | _Myteries of Udolpho_                                          | 5 pages  | XXXX | M. Perregaux           |
-| Horace Walpole    | _The Castle of Otranto_                                        | 5 pages  | XXXX | M. Perregaux           |
-| Henry James       | _The Turn of the Screw_                                        | 5 pages  | XXXX | M. Perregaux           |
-| Ainslie T. Embree | _Encyclopedia of Asian History_                                | 5 pages  | 1989 | J. Da Silva Fernandes  |
+| Author /editor         | Title                                                          | Dates | Location          | Pages    | Transcription     |
+|------------------------|----------------------------------------------------------------|-------|-------------------|----------|-------------------|
+| Antonio Jose Valdes    | _Delirio_                                                      | 1816  | Buenos Aires      | 14 pages | C. Carrasco Luján |
+| Aquiles Sioen          | _Buenos Aires en el año 2080_                                  | 1879  | Buenos Aires      | 7 pages  | C. Carrasco Luján |
+| Eduardo L. Holmberg    | _Horacio Kalibang o los autómatas_                             | 1879  | Buenos Aires      | 5 pages  | C. Carrasco Luján |
+| Juan Egaña             | _Progresos de la civilización_ (_Conversaciones Filosóficas_)  | 1829  | London            | 4 pages  | C. Carrasco Luján |
+| Julián M. del Portillo | _Lima de aquí a cien años_                                     | 1843  | Lima              | 7 pages  | C. Carrasco Luján |
+| Ricardo Palma          | _Apocalíptica_                                                 | 1883  | ????              | 1 page   | C. Carrasco Luján |
 
 
 ## How to cite
 
-Cf. [`htr-united.yml`](https://github.com/FoNDUE-HTR/FONDUE-EN-PRINT-20/blob/main/htr-united.yml) file.
+Cf. [`htr-united.yml`](https://github.com/FoNDUE-HTR/FONDUE-ES-PRINT-19/blob/main/htr-united.yml) file.
 
 ## Licences
 Annotation is CC-BY. Images belong to the digital libraries.
