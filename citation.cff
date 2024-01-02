@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "FONDUE-ES-PRINT-19"
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - family-names: Gabay
+    given-names: Simon
+    email: simon.gabay@unige.ch
+    affiliation: Geneva University
+    orcid: https://orcid.org/0000-0001-9094-4475
+  - family-names: Carrasco Luján
+    given-names: Carmen
+    affiliation: Geneva University
+repository-code: 'https://github.com/FoNDUE-HTR/FONDUE-ES-PRINT-19'
+keywords:
+  - HTR
+  - spanish
+  - contemporary
+  - literature
+version: 1.0
+date-released: 2024-02-01
