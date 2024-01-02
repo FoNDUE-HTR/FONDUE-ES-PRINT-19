@@ -14,88 +14,92 @@ automatically-aligned: false
 characters:
   members:
   - e
-  - t
-  - o
-  - n
   - a
-  - i
-  - r
+  - o
   - s
-  - h
-  - d
+  - n
+  - r
+  - i
   - l
-  - c
+  - d
   - u
+  - t
+  - c
   - m
-  - f
-  - g
-  - p
-  - ','
-  - y
-  - w
-  - b
-  - v
   - .
-  - k
-  - '1'
-  - I
+  - p
+  - ́
+  - ','
+  - b
+  - g
+  - y
+  - q
+  - h
+  - v
   - ¬
-  - C
-  - S
-  - T
-  - '-'
-  - '9'
+  - f
+  - j
+  - z
+  - –
   - A
   - ;
-  - '8'
-  - M
-  - x
-  - '4'
-  - '2'
-  - /
-  - '6'
-  - N
-  - G
-  - R
-  - D
-  - q
-  - '0'
-  - '"'
-  - H
   - E
-  - '5'
-  - z
-  - P
-  - W
-  - U
-  - '7'
-  - (
-  - j
-  - )
-  - '3'
-  - B
-  - "'"
-  - ’
-  - L
-  - ':'
-  - Y
-  - O
-  - V
-  - Q
-  - –
-  - '?'
-  - F
-  - J
   - '!'
+  - x
+  - S
+  - ̃
+  - I
+  - P
+  - B
+  - U
+  - C
+  - D
+  - L
+  - T
+  - '?'
+  - ':'
+  - '0'
+  - O
+  - R
+  - N
+  - H
+  - Y
+  - ¿
+  - V
+  - J
+  - M
+  - '1'
+  - ¡
+  - '2'
+  - —
+  - '"'
+  - k
+  - F
+  - '8'
+  - '7'
+  - '4'
+  - '5'
+  - G
+  - '-'
+  - '3'
+  - '6'
   - K
-  - “
+  - (
+  - )
+  - '9'
+  - Q
+  - ̀
+  - ̈
+  - X
+  - W
   - '['
   - ']'
-  - X
-  - Z
-  - ́
-  - ”
-  - —
+  - '&'
+  - w
+  - '*'
+  - §
+  - °
+  - ǝ
   mode: NFD
 citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-ES-PRINT-19/blob/master/CITATION.cff
 description: Novels written in Spanish
@@ -123,11 +127,11 @@ title: FONDUE-ES-PRINT-19
 transcription-guidelines: SegmOnto
 url: https://github.com/FoNDUE-HTR/FONDUE-ES-PRINT-19
 volume:
-- count: 82834
+- count: 53687
   metric: characters
-- count: 30
+- count: 38
   metric: files
-- count: 1728
+- count: 1375
   metric: lines
-- count: 72
+- count: 103
   metric: regions
