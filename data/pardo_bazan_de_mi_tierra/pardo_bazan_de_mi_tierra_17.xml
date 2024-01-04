@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>pardo_bazan_de_mi_tierra_17.JPG</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1900" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1901" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1902" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1903" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1904" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/>
+    <OtherTag ID="LT764" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT765" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="599"
+          HEIGHT="1017"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="599"
+                  HEIGHT="1017">
+        
+        <TextBlock HPOS="64"
+                   VPOS="329"
+                   WIDTH="472"
+                   HEIGHT="577"
+                   ID="eSc_textblock_5a97f2b5"
+                   TAGREFS="BT1900">
+          <Shape><Polygon POINTS="66 330 65 867 64 906 536 904 536 329"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_5bd3e4dd"
+                    TAGREFS="LT765"
+                    BASELINE="111 355 493 355" 
+                    HPOS="111"
+                    VPOS="328"
+                    WIDTH="382"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="493 338 470 336 453 328 452 328 450 328 442 328 433 328 429 328 425 332 421 328 416 328 413 328 409 331 385 329 384 329 383 329 382 329 375 334 365 329 364 329 363 329 352 333 305 328 297 328 289 328 282 328 279 331 249 329 248 329 247 329 246 329 237 336 230 330 230 329 229 329 223 328 221 328 212 328 204 328 195 328 187 328 179 328 170 328 162 328 153 328 151 328 130 329 113 339 119 354 111 353 111 355 111 361 492 364 493 355 491 353 484 354"/></Shape>
+	    <String CONTENT="LA POESÍA REGIONAL GALLEGA"
+                    HPOS="111"
+                    VPOS="328"
+                    WIDTH="382"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1a3ff36b"
+                    TAGREFS="LT765"
+                    BASELINE="126 499 302 497" 
+                    HPOS="125"
+                    VPOS="474"
+                    WIDTH="177"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="286 480 278 480 269 480 261 479 252 479 244 479 235 479 227 478 218 478 210 478 201 478 193 477 190 477 173 479 149 477 142 477 134 477 133 475 125 474 126 499 126 506 218 502 237 503 283 505 284 505 285 505 302 500 302 497 302 494 295 480"/></Shape>
+	    <String CONTENT="SEÑORAS Y SEÑORES:"
+                    HPOS="125"
+                    VPOS="474"
+                    WIDTH="177"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dfdd9703"
+                    TAGREFS="LT764"
+                    BASELINE="166 581 529 581" 
+                    HPOS="165"
+                    VPOS="551"
+                    WIDTH="363"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="165 585 527 588 528 580 527 552 504 556 459 551 453 551 452 551 447 551 410 558 398 552 397 552 397 552 396 552 372 559 304 559 245 552 244 552 243 552 242 552 242 553 237 558 227 552 226 552 225 552 224 552 205 557 199 552 198 552 197 552 196 552 195 552 195 552 187 558 166 551 165 580 165 585"/></Shape>
+	    <String CONTENT="IENE por objeto esta solemne velada,"
+                    HPOS="165"
+                    VPOS="551"
+                    WIDTH="363"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_57669250"
+                    TAGREFS="LT764"
+                    BASELINE="166 611 528 611" 
+                    HPOS="165"
+                    VPOS="586"
+                    WIDTH="362"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="165 610 165 616 527 616 527 610 527 591 376 586 375 586 375 586 364 591 266 591 245 586 244 586 243 586 242 586 238 590 233 586 232 586 231 586 190 586 189 586 165 590 165 610"/></Shape>
+	    <String CONTENT="que me honro en presidir, hacer con¬"
+                    HPOS="165"
+                    VPOS="586"
+                    WIDTH="362"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ce5db92a"
+                    TAGREFS="LT764"
+                    BASELINE="166 639 526 639" 
+                    HPOS="165"
+                    VPOS="615"
+                    WIDTH="360"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="165 638 165 647 525 644 525 638 524 619 481 620 478 619 467 615 466 615 465 615 445 619 440 620 439 619 433 615 432 615 431 615 431 615 430 615 418 619 416 620 415 619 411 615 410 615 409 615 373 615 372 615 371 615 370 615 370 616 366 619 365 621 312 621 311 620 300 615 299 615 298 615 297 615 282 620 281 620 279 620 265 615 264 615 263 615 263 615 244 620 242 621 165 621 165 638"/></Shape>
+	    <String CONTENT="memoración de una mujer á quien no"
+                    HPOS="165"
+                    VPOS="615"
+                    WIDTH="360"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_40c8e0a0"
+                    TAGREFS="LT764"
+                    BASELINE="67 664 529 666" 
+                    HPOS="66"
+                    VPOS="641"
+                    WIDTH="463"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="67 664 66 668 220 675 221 675 528 671 529 666 529 648 457 643 456 643 431 647 422 649 350 649 346 647 325 642 324 642 324 642 323 642 322 642 316 647 314 649 287 649 285 647 275 642 274 642 274 642 273 642 272 642 265 647 263 648 260 647 246 643 245 643 244 643 226 647 220 648 214 647 184 641 160 641 159 641 158 641 157 641 150 647 149 647 147 647 126 641 125 641 124 641 123 641 123 641 117 645 99 641 98 641 97 641 96 641 89 647 88 647 67 647 67 664"/></Shape>
+	    <String CONTENT="es lícito llamar poetisa, sino poeta verdadero:"
+                    HPOS="66"
+                    VPOS="641"
+                    WIDTH="463"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_522d3e46"
+                    TAGREFS="LT764"
+                    BASELINE="66 694 530 695" 
+                    HPOS="65"
+                    VPOS="670"
+                    WIDTH="465"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="66 694 65 697 528 699 530 695 530 678 502 671 501 671 466 677 463 677 426 677 425 676 419 671 418 671 417 671 380 671 380 671 379 671 378 671 373 676 371 676 370 676 364 671 363 671 363 671 332 671 331 671 330 671 322 675 318 677 207 677 199 673 186 670 185 670 184 670 184 670 183 670 179 673 175 676 167 673 157 670 156 670 156 670 155 670 147 673 140 676 134 672 129 670 128 670 128 670 66 672 66 694"/></Shape>
+	    <String CONTENT="Rosalía Castro, con cuyo fallecimiento acaban"
+                    HPOS="65"
+                    VPOS="670"
+                    WIDTH="465"
+                    HEIGHT="29"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_26629233"
+                    TAGREFS="LT764"
+                    BASELINE="66 721 530 722" 
+                    HPOS="65"
+                    VPOS="697"
+                    WIDTH="465"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="66 721 65 727 528 731 530 722 529 703 400 698 399 698 361 702 356 702 352 702 332 698 331 698 303 702 298 702 293 701 265 697 264 697 263 697 248 701 247 702 195 702 194 701 190 697 189 697 188 697 187 697 186 697 178 701 174 701 135 697 134 697 66 700 66 721"/></Shape>
+	    <String CONTENT="de sufrir dolorosa, irreparable pérdida las letras"
+                    HPOS="65"
+                    VPOS="697"
+                    WIDTH="465"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6b87d025"
+                    TAGREFS="LT764"
+                    BASELINE="66 749 529 750" 
+                    HPOS="65"
+                    VPOS="728"
+                    WIDTH="464"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="526 728 66 729 66 749 65 753 79 758 80 758 81 758 237 755 303 759 304 759 528 755 529 750 527 730 526 728"/></Shape>
+	    <String CONTENT="regionales. Suele decirse que la hora de la muer¬"
+                    HPOS="65"
+                    VPOS="728"
+                    WIDTH="464"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_daf422cb"
+                    TAGREFS="LT764"
+                    BASELINE="66 778 530 779" 
+                    HPOS="65"
+                    VPOS="757"
+                    WIDTH="465"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="66 778 65 782 98 788 99 788 100 788 111 783 184 788 184 788 217 783 221 783 229 783 304 789 305 789 529 786 530 779 529 761 66 757 66 778"/></Shape>
+	    <String CONTENT="te es la de la justicia: no puede aplicarse al caso"
+                    HPOS="65"
+                    VPOS="757"
+                    WIDTH="465"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_76419ad5"
+                    TAGREFS="LT764"
+                    BASELINE="67 807 530 807" 
+                    HPOS="67"
+                    VPOS="784"
+                    WIDTH="463"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="67 807 67 816 530 812 530 807 530 788 421 784 420 784 403 786 386 789 375 786 367 784 366 784 365 784 364 784 363 784 361 786 357 789 254 789 233 785 226 784 225 784 224 784 223 784 223 785 218 789 207 785 204 784 203 784 202 784 197 785 178 789 167 784 166 784 165 784 164 784 163 784 162 784 156 789 118 789 67 784 67 807"/></Shape>
+	    <String CONTENT="presente el axioma, puesto que en vida de Ro¬"
+                    HPOS="67"
+                    VPOS="784"
+                    WIDTH="463"
+                    HEIGHT="32"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ac61350f"
+                    TAGREFS="LT764"
+                    BASELINE="67 833 530 836" 
+                    HPOS="66"
+                    VPOS="811"
+                    WIDTH="464"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="67 833 66 839 528 841 530 836 529 818 505 813 504 813 475 817 474 817 465 813 464 813 464 813 463 813 462 813 457 817 457 818 382 818 380 817 369 812 368 812 367 812 340 816 339 817 287 817 286 816 278 812 277 812 276 812 199 816 197 816 188 811 187 811 186 811 67 815 67 833"/></Shape>
+	    <String CONTENT="salía nadie desconoció sus méritos: pero cuando"
+                    HPOS="66"
+                    VPOS="811"
+                    WIDTH="464"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b9e7b2fe"
+                    TAGREFS="LT764"
+                    BASELINE="66 861 530 865" 
+                    HPOS="65"
+                    VPOS="837"
+                    WIDTH="465"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="66 857 66 861 65 870 528 872 530 865 529 840 494 840 493 840 492 840 492 840 485 844 481 840 480 840 480 839 479 839 478 839 449 839 448 839 447 839 447 839 447 840 446 841 440 845 433 841 432 840 431 840 431 840 430 840 429 840 427 841 417 845 407 841 404 840 403 840 403 840 402 840 401 840 400 841 393 846 358 846 352 842 348 839 347 839 347 839 346 839 345 839 344 839 340 842 334 847 298 847 244 846 239 843 231 839 230 839 229 839 229 839 228 839 223 843 217 838 216 838 215 838 214 838 213 838 196 844 191 845 189 844 181 839 180 839 179 839 179 839 178 839 166 844 160 838 160 837 159 837 158 837 157 837 156 837 156 837 148 842 134 837 134 837 133 837 132 837 117 844 106 837 105 837 104 837 103 837 70 844 66 857"/></Shape>
+	    <String CONTENT="no la de la justicia, suena al morir la hora del"
+                    HPOS="65"
+                    VPOS="837"
+                    WIDTH="465"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_401f601e"
+                    TAGREFS="LT764"
+                    BASELINE="66 891 529 894" 
+                    HPOS="65"
+                    VPOS="868"
+                    WIDTH="464"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="66 891 65 899 127 900 128 900 145 909 146 909 147 909 228 905 238 910 239 910 240 910 282 909 283 909 298 905 313 901 327 905 341 910 341 910 342 910 343 910 353 906 366 902 373 907 374 907 375 907 375 907 383 907 457 902 466 909 468 911 469 911 470 911 470 911 485 911 485 911 486 911 487 911 487 910 499 902 509 902 526 911 529 894 527 870 507 875 438 870 428 870 427 870 426 870 425 871 415 875 408 871 407 870 406 870 405 870 363 869 338 869 337 869 336 869 335 869 334 871 330 874 309 871 294 869 293 869 292 869 291 869 291 870 290 872 286 875 222 875 215 872 206 868 205 868 204 868 172 872 161 873 156 872 141 868 140 868 139 868 66 872 66 891"/></Shape>
+	    <String CONTENT="recuerdo cariñoso y melancólico, la del encare¬"
+                    HPOS="65"
+                    VPOS="868"
+                    WIDTH="464"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="82"
+                   VPOS="64"
+                   WIDTH="444"
+                   HEIGHT="98"
+                   ID="eSc_textblock_08502f78"
+                   TAGREFS="BT1903">
+          <Shape><Polygon POINTS="82 64 82 162 526 162 526 64"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="69"
+                   VPOS="547"
+                   WIDTH="96"
+                   HEIGHT="95"
+                   ID="eSc_textblock_73c5a797"
+                   TAGREFS="BT1904">
+          <Shape><Polygon POINTS="69 547 69 642 165 642 165 547"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
