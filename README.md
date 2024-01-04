@@ -10,7 +10,7 @@ Books:
 
 | Author /editor         | Title                                                          | Dates | Location          | Publisher | Pages    | Transcription     |
 |------------------------|----------------------------------------------------------------|-------|-------------------|-----------|----------|-------------------|
-| Antonio Jose Valdes    | ["Delirio", _La Prensa Argentina. Semanario Político y Económico_](https://catalogo.bn.gov.ar/F/?func=direct&doc_number=001197833)                                                     | 11 and 18/06/1816  | Buenos Aires      | | 14 pages | C. Carrasco Luján |
+| Antonio Jose Valdes    | ["Delirio", _La Prensa Argentina. Semanario Político y Económico_](https://catalogo.bn.gov.ar/F/?func=direct&doc_number=001197833)                                                     | 11 and 18/06/1816  | Buenos Aires      | Imprenta de Gandarillas y socios | 14 pages | C. Carrasco Luján |
 | Aquiles Sioen          | [_Buenos Aires en el año 2080. Historia verosímil_](https://books.google.ch/books?id=9VARAQAAIAAJ) | 1879  | Buenos Aires      | Igon Hermanos Editores | 7 pages  | C. Carrasco Luján |
 | Eduardo L. Holmberg    | [_Horacio Kalibang o los autómatas_](https://commons.wikimedia.org/wiki/File:Horacio_Kalibang_o_Los_automatas_-_Eduardo_L._Holmberg.pdf) | 1879  | Buenos Aires      | Imprenta Álbum del Hogar | 5 pages  | C. Carrasco Luján |
 | Juan Egaña             | ["Progresos de la civilizacion del género humano" (_Ocios filosóficos y poéticos en la Quinta de las Delicias_, t. 4)](https://www.memoriachilena.gob.cl/602/w3-article-9715.html)  | 1829  | London            | Imp. Manuel Calero | 4 pages  | C. Carrasco Luján |
