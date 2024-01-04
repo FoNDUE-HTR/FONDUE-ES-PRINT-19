@@ -13,6 +13,7 @@ authors:
   - family-names: Carrasco Luján
     given-names: Carmen
     affiliation: Geneva University
+    orcid: https://orcid.org/0009-0004-1508-9076
 repository-code: 'https://github.com/FoNDUE-HTR/FONDUE-ES-PRINT-19'
 keywords:
   - HTR
