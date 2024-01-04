@@ -42,60 +42,62 @@ characters:
   - f
   - j
   - z
-  - E
   - A
+  - E
   - ;
   - –
   - '!'
+  - ̃
   - S
   - x
-  - ̃
   - I
   - P
   - C
-  - B
   - L
+  - B
   - U
   - D
   - R
-  - '?'
-  - T
   - ':'
+  - T
+  - '?'
   - O
-  - '0'
   - N
-  - ¿
+  - '0'
   - H
   - Y
+  - ¿
   - M
   - V
-  - J
   - ¡
   - '1'
+  - J
   - '2'
   - —
   - '"'
+  - G
   - F
   - k
-  - G
   - '8'
   - '7'
   - '4'
   - '5'
   - '-'
-  - '3'
   - Q
   - '6'
+  - '3'
   - ̀
   - K
+  - '9'
   - (
   - )
-  - '9'
   - ̈
   - X
+  - »
   - W
   - '['
   - ']'
+  - Z
   - '&'
   - w
   - '*'
@@ -103,7 +105,7 @@ characters:
   -  
   - °
   - ǝ
-  - Z
+  - «
   mode: NFD
 citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-ES-PRINT-19/blob/master/CITATION.cff
 description: Novels written in Spanish
@@ -131,11 +133,11 @@ title: FONDUE-ES-PRINT-19
 transcription-guidelines: SegmOnto
 url: https://github.com/FoNDUE-HTR/FONDUE-ES-PRINT-19
 volume:
-- count: 58345
+- count: 64038
   metric: characters
-- count: 43
+- count: 48
   metric: files
-- count: 1501
+- count: 1668
   metric: lines
-- count: 116
+- count: 129
   metric: regions
